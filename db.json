@@ -1,1 +1,9 @@
-{ "movies": {} }
+{
+  "movies": {},
+  "categories": {
+    "cat_1786563402949": {
+      "name": "Movie"
+    }
+  },
+  "banners": {}
+}
